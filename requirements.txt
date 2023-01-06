@@ -1,0 +1,11 @@
+# Для работы Silero
+torch~=1.12.1
+numpy~=1.23.1
+
+# Веб-сервер
+uvicorn~=0.18.3
+uvicorn[standard]~=0.18.3
+fastapi~=0.81.0
+fastapi-utils
+starlette~=0.19.1
+
